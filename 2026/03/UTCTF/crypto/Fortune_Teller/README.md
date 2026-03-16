@@ -15,11 +15,10 @@ lcg.txtの中身は
 - $x_5$ をkeyとしてflagとxorした後の値
 
 式は以下、
+
 $$
 x_{n+1} = (a \cdot x_n + c) \pmod m
 $$
-
-
 
 式を見ると線形のなんちゃらっぽい<br>
 $`m`$ が $`10^9`$ だったら全通り試せば行けるか？<br>
@@ -29,8 +28,10 @@ $`m`$ が $`10^9`$ だったら全通り試せば行けるか？<br>
 <br>
 
 $$
+\begin{aligned}
 x_{n+1} = (a \cdot x_n + c) \pmod m \\
 A, B, M \in \text{constants} \quad (M > A > 0, \ M > B \ge 0)
+\end{aligned}
 $$
 
 <br>
