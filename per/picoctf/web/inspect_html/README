@@ -1,0 +1,31 @@
+# 問題
+
+>Description<br>
+>Can you get the flag?
+
+説明<br>
+旗を入手できますか？
+
+# 解法要約
+デベロッパーツール、ソースタブ、勝ち
+
+# 解法
+意味わからない文章があった<br>
+とりあえずデベロッパーツール見ると html でフラグゲット
+
+```html
+<!--picoCTF{1n5p3t0r_0f_h7ml_8113f7e2}-->
+```
+
+因みに意味わからない文章は以下
+
+>On Histiaeus<br>
+>However, according to Herodotus, Histiaeus was unhappy having to stay in Susa, and made plans to return to his position as King of Miletus by instigating a revolt in Ionia. In 499 BC, he shaved the head of his most trusted slave, tattooed a message on his head, and then waited for his hair to grow back. The slave was then sent to Aristagoras, who was instructed to shave the slave's head again and read the message, which told him to revolt against the Persians.<br>
+>Source: Wikipedia on Histiaeus
+
+ヒスティアイオスについて<br>
+しかし、ヘロドトスによれば、ヒスティアイオスはスーサに留まることを不満に思い、イオニアで反乱を起こしてミレトスの王位に復帰する計画を立てていました。紀元前499年、彼は最も信頼していた奴隷の頭を剃り、その頭にメッセージを刺青し、髪が伸びるのを待ちました。その後、その奴隷はアリスタゴラスのもとに送られ、アリスタゴラスは再び奴隷の頭を剃り、刺青を読みました。そのメッセージは、ペルシア人に対する反乱を起こすようにと告げていました。<br>
+出典：ウィキペディア（ヒスティアイオスについて）
+
+# 解答
+picoCTF{1n5p3t0r_0f_h7ml_8113f7e2}
